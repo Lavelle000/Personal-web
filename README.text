@@ -1,0 +1,35 @@
+What I Did:
+
+This is my personal website project made using HTML, CSS, and a little JavaScript. It’s a portfolio that showcases who I am as a freelance artist.
+
+Here are the main features I included:
+
+A homepage with a custom background and intro about me
+
+Navigation bar that works on both desktop and mobile
+
+An About section with my photo and short description
+
+A Skills section that highlights my abilities in traditional and digital art
+
+A Featured Works section (renamed from “Work”) to show some of my actual art pieces
+
+A Contact section with a form and my phone number
+
+Scroll animations using ScrollReveal for smooth transitions
+
+Social media icons that link to my actual Instagram and Facebook pages
+
+Design Choices / Changes from Wireframe:
+
+I replaced the default “blob” art design with a personal background image to better reflect my personality.
+
+Changed the "Work" section to "Featured Works" to fit my art theme better.
+
+Replaced “Photoshop” with "Traditional Art" in the skills section to show what I actually do more often.
+
+Included my real phone number so people can easily contact me.
+
+Used my own art images instead of placeholders in the featured section.
+
+Everything was styled using CSS, and I made sure it looks good on both desktop and mobile.
